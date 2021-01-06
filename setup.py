@@ -22,7 +22,7 @@ setup(
         "requests==2.21.0",
         "svgwrite==1.1.11",
         "gunicorn==19.9.0",
-        "CairoSVG==2.1.1",
+        "CairoSVG==2.5.1",
         "requests-cache==0.4.13",
         "gevent==1.4.0",
         "SQLAlchemy==1.3.1",
